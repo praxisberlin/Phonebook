@@ -1,0 +1,38 @@
+<YealinkIPPhoneDirectory>
+  <DirectoryEntry>
+    <Name>WB 1, 2, 5 - Frau Bathe</Name>
+    <Telephone>030209136220</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>WB 1, 2, 5 - Frau Uzunoglan</Name>
+    <Telephone>030209136250</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Fax WB 1, 2, 5</Name>
+    <Telephone>030209136192</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Fax WB 1, 2, 5</Name>
+    <Telephone>030209136195</Telephone>
+  </DirectoryEntry>
+
+  <!-- WB 3, 4 -->
+  <DirectoryEntry>
+    <Name>WB 3, 4 - Frau Kurth, Frau Heymann<</Name>
+    <Telephone>030209136230</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Fax WB 3, 4</Name>
+    <Telephone>030209136193</Telephone>
+  </DirectoryEntry>
+
+  <!-- Apotheke -->
+  <DirectoryEntry>
+    <Name>Fax Apotheke zum Stift</Name>
+    <Telephone>03070767439</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Apotheke zum Stift</Name>
+    <Telephone>03076766292</Telephone>
+  </DirectoryEntry>
+</YealinkIPPhoneDirectory>

@@ -1,0 +1,57 @@
+
+<YealinkIPPhoneDirectory>
+  <DirectoryEntry>
+    <Name>Fax Zentral 1</Name>
+    <Telephone>030479080111</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Fax WB2</Name>
+    <Telephone>479080132</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Fax WB3</Name>
+    <Telephone>479080206</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Fax WB1</Name>
+    <Telephone>479080110</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Telefon 1</Name>
+    <Telephone>0304790800</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>WB1</Name>
+    <Telephone>030479080127</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Frau Roszayk</Name>
+    <Telephone>030479080114</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>WB2</Name>
+    <Telephone>030479080120</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>WB3</Name>
+    <Telephone> 030479080112</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Herr Janotta</Name>
+    <Telephone>030220116595</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Herr Janotta Handy</Name>
+    <Telephone>017681031136</Telephone>
+  </DirectoryEntry>
+
+  <!-- Apotheke -->
+  <DirectoryEntry>
+    <Name>Flora Apotheke</Name>
+    <Telephone>0309250107</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Fax Flora Apotheke</Name>
+    <Telephone>03092900786</Telephone>
+  </DirectoryEntry>
+</YealinkIPPhoneDirectory>

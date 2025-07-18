@@ -1,0 +1,103 @@
+<YealinkIPPhoneMenu>
+<Title>Praxisberlin</Title>
+  <MenuItem>
+    <Name>Haus Jahreszeiten</Name>
+    <URL>https://raw.githubusercontent.com/ZahraSouqia/test/main/Jahreszeiten.xml</URL>
+  </MenuItem>
+  <MenuItem>
+    <Name>Haus Wilmersdorf</Name>
+    <URL>https://raw.githubusercontent.com/ZahraSouqia/test/main/Wilmersdorf.xml</URL>
+  </MenuItem>
+  <MenuItem>
+    <Name>Haus Jungfernheide</Name>
+    <URL>https://raw.githubusercontent.com/ZahraSouqia/test/main/Jungfernheide.xml</URL>
+  </MenuItem>
+  <MenuItem>
+    <Name>Haus Weidenweg</Name>
+    <URL>https://raw.githubusercontent.com/ZahraSouqia/test/main/Weidenweg.xml</URL>
+  </MenuItem>
+  <MenuItem>
+    <Name>Haus Teichstraße</Name>
+    <URL>https://raw.githubusercontent.com/ZahraSouqia/test/main/Teichstrasse.xml</URL>
+  </MenuItem>
+  <MenuItem>
+    <Name>Haus Ullstein</Name>
+    <URL>https://raw.githubusercontent.com/ZahraSouqia/test/main/Ullstein.xml</URL>
+  </MenuItem>
+  <MenuItem>
+    <Name>Herthasee</Name>
+    <URL>https://raw.githubusercontent.com/ZahraSouqia/test/main/Herthasee.xml</URL>
+  </MenuItem>
+  <MenuItem>
+    <Name>Haus Friedenshöhe</Name>
+    <URL>https://raw.githubusercontent.com/ZahraSouqia/test/main/Friedenshoehe.xml</URL>
+  </MenuItem>
+  <MenuItem>
+    <Name>Haus Rüsternallee</Name>
+    <URL>https://raw.githubusercontent.com/ZahraSouqia/test/main/Ruesternallee.xml</URL>
+  </MenuItem>
+  <MenuItem>
+    <Name>Haus Waldfriede</Name>
+    <URL>https://raw.githubusercontent.com/ZahraSouqia/test/main/Waldfriede.xml</URL>
+  </MenuItem>
+  <MenuItem>
+    <Name>Haus Schwyzer Straße</Name>
+    <URL>https://raw.githubusercontent.com/ZahraSouqia/test/main/SchwyzerStrasse.xml</URL>
+  </MenuItem>
+  <MenuItem>
+    <Name>Haus Pankow</Name>
+    <URL>https://raw.githubusercontent.com/ZahraSouqia/test/main/Pankow.xml</URL>
+  </MenuItem>
+  <MenuItem>
+    <Name>Caritas Seniorenheim Franz-Jordan-Stift</Name>
+    <URL>https://raw.githubusercontent.com/ZahraSouqia/test/main/Caritas.xml</URL>
+  </MenuItem>
+  <MenuItem>
+    <Name>Alloheim "Kurt-Exner-Haus"</Name>
+    <URL>https://raw.githubusercontent.com/ZahraSouqia/test/main/Alloheim.xml</URL>
+  </MenuItem>
+  <MenuItem>
+    <Name>Domizil Lichterfelde-West</Name>
+    <URL>https://raw.githubusercontent.com/ZahraSouqia/test/main/Domizil.xml</URL>
+  </MenuItem>
+    <MenuItem>
+    <Name>Curata Park Alterssitz City </Name>
+    <URL>https://raw.githubusercontent.com/ZahraSouqia/test/main/Curata.xml</URL>
+  </MenuItem>
+  <MenuItem>
+    <Name>Diakonie Haus "Erich Raddatz"</Name>
+    <URL>https://raw.githubusercontent.com/ZahraSouqia/test/main/Diakonie.xml</URL>
+  </MenuItem>
+  <MenuItem>
+    <Name>Immanuel Seniorenzentrum Schöneberg</Name>
+    <URL>https://raw.githubusercontent.com/ZahraSouqia/test/main/Immanuel.xml</URL>
+  </MenuItem>
+  <MenuItem>
+    <Name>Nova Vita Pflegerheim Im Paulinenhaus</Name>
+    <URL>https://raw.githubusercontent.com/ZahraSouqia/test/main/Nova.xml</URL>
+  </MenuItem>
+  <MenuItem>
+    <Name>Pflegeheim "Weißensee"</Name>
+    <URL>https://raw.githubusercontent.com/ZahraSouqia/test/main/Weissensee.xml</URL>
+  </MenuItem>
+  <MenuItem>
+    <Name>Pflegeheim "Amendestraße"</Name>
+    <URL>https://raw.githubusercontent.com/ZahraSouqia/test/main/Amendestrasse.xml</URL>
+  </MenuItem>
+  <MenuItem>
+    <Name>Haus "Alma Via"</Name>
+    <URL>https://raw.githubusercontent.com/ZahraSouqia/test/main/Almavia.xml</URL>
+  </MenuItem>
+  <MenuItem>
+    <Name>Haus "Ostseeplatz"</Name>
+    <URL>https://raw.githubusercontent.com/ZahraSouqia/test/main/Ostseeplatz.xml</URL>
+  </MenuItem>
+  <MenuItem>
+    <Name>Haus am Weinbergsweg</Name>
+    <URL>https://raw.githubusercontent.com/ZahraSouqia/test/main/Weinbergsweg.xml</URL>
+  </MenuItem>
+  <MenuItem>
+    <Name>Haus am Wiesengrund</Name>
+    <URL>https://raw.githubusercontent.com/ZahraSouqia/test/refs/heads/main/Wiesengrund.xml</URL>
+  </MenuItem>
+</YealinkIPPhoneMenu>

@@ -1,0 +1,70 @@
+<YealinkIPPhoneDirectory>
+
+  <DirectoryEntry>
+    <Name>Fax Etage 1/ WB1</Name>
+    <Telephone>030440211219</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Fax Etage 2 / WB1</Name>
+    <Telephone>030440211229</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Fax Etage 3 / WB2</Name>
+    <Telephone>030440211239</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Fax Etage 4 / WB2</Name>
+    <Telephone>030440211249</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Fax Etage 5 / WB3</Name>
+    <Telephone>030440211259</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Fax Etage 6 / WB3</Name>
+    <Telephone>030440211296</Telephone>
+  </DirectoryEntry>
+
+  <DirectoryEntry>
+    <Name>Zentrale</Name>
+    <Telephone>03044021112</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Verwaltung</Name>
+    <Telephone>03044021113</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Etage 1 / WB1</Name>
+    <Telephone>030440211211</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Etage 2 / WB1</Name>
+    <Telephone>030440211221</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Etage 3 / WB2</Name>
+    <Telephone>030440211231</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Etage 4 / WB2</Name>
+    <Telephone>030440211241</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Etage 5 / WB3</Name>
+    <Telephone>030440211251</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Etage 6 / WB3</Name>
+    <Telephone>030440211261</Telephone>
+  </DirectoryEntry>
+
+  <!-- Apotheke -->
+  <DirectoryEntry>
+    <Name>Fax Sanimedius-Apotheke</Name>
+    <Telephone>0306881707090</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Sanimedius-Apotheke</Name>
+    <Telephone>0306881707010</Telephone>
+  </DirectoryEntry>
+</YealinkIPPhoneDirectory>
